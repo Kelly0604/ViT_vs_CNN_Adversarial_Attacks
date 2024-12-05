@@ -2,6 +2,10 @@
 
 ## Youtube Video Link for Presentation
 
+## Important Files Included: 
+
+- ViT_vs_CNN_Adversarial_Attacks.ipynb: A jupyter notebook that contains all the process code with annotations and explainations. All the discussions and evaluations are also included in this notebook.
+- ViT_vs_CNN_Adversarial_Attacks_Poster: The poster products files are included in this folder. They are also displayed in this readme section `Poster Product Display.`
 
 ## Description
 This final project examines the comparative performance of Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs) in the context of adversarial attacks. CNNs, which have long dominated computer vision tasks, are well-documented for their vulnerability to adversarial examples. The subtle perturbations of adversarial attacks cause models to misclassify inputs with high confidence. ViTs, a more recent architecture leveraging self-attention mechanisms, have shown promise in achieving competitive or superior results in various vision tasks. However, their behavior under adversarial conditions, especially compared to CNNs, remains less thoroughly studied. This project aims to provide insights into their performance differences when subjected to adversarial perturbations, focusing on accuracy as the primary evaluation metric. 
