@@ -2,6 +2,8 @@
 
 ## Youtube Video Link for Presentation
 
+Video: https://youtu.be/5BSIlUJaB4k
+
 ## Important Files Included: 
 
 - ViT_vs_CNN_Adversarial_Attacks.ipynb: A jupyter notebook that contains all the process code with annotations and explainations. All the discussions and evaluations are also included in this notebook.
